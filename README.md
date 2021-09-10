@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning new technologies like ReatcJS, Reatc Native and Android Development
 
 
-- 📫 How to reach me Email: yeswantyas1992@gmail.com
+- 📫 How to reach me - Email: yeswantyas1992@gmail.com
+- Iam looking for a partner who loved to develop eny kind of applications especially androuid. and i would like to improve my knowledge.
 
 <!---
 CharanBharathula/CharanBharathula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
