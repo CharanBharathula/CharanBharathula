@@ -35,7 +35,7 @@
     },
     "storageAccountName": {
       "type": "string",
-      "defaultValue": "SampleStore12",
+      "defaultValue": "samplestore12",
       "metadata": {
         "description": "The name of the storage account"
       }
